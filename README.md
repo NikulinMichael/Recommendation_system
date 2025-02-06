@@ -57,7 +57,7 @@ python.exe -m uvicorn app:app
 ```
 
 Сервис доступен по http://127.0.0.1:8000/post/recommendations/
-Примеры запросов [здесь](request_examples.txt).
+Примеры запросов здесь.
 
 
 
