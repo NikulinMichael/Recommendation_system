@@ -16,7 +16,7 @@ Cервиса рекомендательной системы постов в у
 ├───Dev_notebooks
 │       model_training.ipynb     <- Ноутбук с процессом разработки модели на классическом ML
 |       
-├───Models
+├───Model
 │       catboost_model.cbm   <- ML-модель 
 ```
 
